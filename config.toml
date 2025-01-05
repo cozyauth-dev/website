@@ -61,7 +61,7 @@ title_addition = "Easy Passkey Authentication"
 
 
 # Set date format in blog publish metadata
-timeformat = "%Y-%m-%d %H:%M:%S" # e.g. 2021-05-01 09:19:42
+timeformat = "%Y-%m-%d %H:%M:%S %Z" # e.g. 2021-05-01 09:19:42
 timezone = "UTC"
 
 # Edit page on reposity or not
